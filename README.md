@@ -4,4 +4,4 @@ This repository holds basic C++ programs, covering fundamental programming conce
 
 ## C++ Logo
 
-![C++ Logo](./C++%20Basic/C++%20Logo.svg)
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
